@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 
-	pb "git.profects.com/profects/grpc-example/greeter"
+	pb "github.com/profects/grpc-example/greeter"
 	"google.golang.org/grpc"
 )
 
